@@ -732,24 +732,7 @@ https://live-tvstream.github.io/Livetv-market/Enter10Bangla.m3u8
 http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #=====sport======
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-1 FiFa-2026
-https://kazimmt.ami.bd/playlist/TF/TF-6.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-2 FiFa-2026
-https://kazimmt.ami.bd/playlist/TF/TF-6.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-3 FiFa-2026
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783709184~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDFjMTViMzYtOWQ3Ny00ZTlhLWExOTMtNDY0YjJkM2QyY2NmIn0~Signature=AWIR_5HUac_dIsEOa0nNZkjk2KqwMJsCyw8P1PUugx8NV2V1gPGYBum9dzRX9DHGC_sODtz_yN0JLL_9V-CRJWodiCAO
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-4 FiFa-2026
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783709184~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDFjMTViMzYtOWQ3Ny00ZTlhLWExOTMtNDY0YjJkM2QyY2NmIn0~Signature=AWIR_5HUac_dIsEOa0nNZkjk2KqwMJsCyw8P1PUugx8NV2V1gPGYBum9dzRX9DHGC_sODtz_yN0JLL_9V-CRJWodiCAO
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-5 FiFa-2026
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1500.m3u8?hdntl=Expires=1783709184~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiZDFjMTViMzYtOWQ3Ny00ZTlhLWExOTMtNDY0YjJkM2QyY2NmIn0~Signature=AWIR_5HUac_dIsEOa0nNZkjk2KqwMJsCyw8P1PUugx8NV2V1gPGYBum9dzRX9DHGC_sODtz_yN0JLL_9V-CRJWodiCAO
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-6 FiFa-2026
-https://cdn-tt.pages.dev/ch6.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-7 FiFa-2026
-https://cdn-spotixa.pages.dev/ch1.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-8 FiFa-2026
-https://cdn-spotixa.pages.dev/ch2.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TIRdlwp.jpeg" group-title="sports",Toffee-9 FiFa-2026
-https://cdn-spotixa.pages.dev/ch3.m3u8
+
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/FTnx9jJ.png" group-title="sports",WILLOW- SPORT
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/96y2oeC.png" group-title="sports",Bein Sport Extra 
@@ -796,9 +779,7 @@ http://114.130.57.233:8080/btvfifa2026/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan
 https://proxy.futuredesh.com/api/proxy?url=http://103.114.11.37:8081/BTV/index.m3u8?token=1dsfds1fsdf
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/UmkqPFt.jpeg" group-title="sports",Zeebangla Cinema FiFa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/quUOgVo.jpeg" group-title="sports",Go live-FiFa
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WJS9M9E.png" group-title="sports",TSN-1 FiFa
+EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WJS9M9E.png" group-title="sports",TSN-1 FiFa
 https://airtel.rkdyiptv.workers.dev/live/258.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/YvZdVoZ.jpeg" group-title="sports",PTV sport-1
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
